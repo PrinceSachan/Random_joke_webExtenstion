@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Random jokes",
+    "description": "Everytime extension is clicked it'll generate a random joke",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "popup.png"
+    },
+    "icons": {
+        "128" : "popup.png"
+    }
+}
